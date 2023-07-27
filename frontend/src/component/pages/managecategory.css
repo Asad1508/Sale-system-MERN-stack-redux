@@ -1,0 +1,36 @@
+.cont{
+    position: absolute;
+    top: 16%;
+    left: 16%;
+    width: 80%;
+}
+button{
+    margin: .5rem;
+}
+.cont form{
+    border: 1px solid rgba(128, 128, 128, 0.479);
+    width: 100%;
+    padding: 1rem;
+}
+.cont form input{
+    width: 40%;
+    border: 1px solid rgba(128, 128, 128, 0.34);
+}
+
+.back{
+    height: 50vh;
+    overflow-y: auto;
+ 
+}
+.spec input{
+    border: none;
+    padding: .7rem;
+    color: rgb(129, 123, 123);
+}
+.spec input:focus{
+    outline: none;
+}
+.mouse{
+    cursor: pointer;
+    color: rgba(255, 0, 0, 0.687);
+}

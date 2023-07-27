@@ -1,0 +1,22 @@
+
+.cards{
+    background-color: #ffffff;
+    padding: 2rem;
+    margin: .5rem;
+    /* width: 15rem; */
+    box-shadow: 10px 10px 54px -21px rgba(0,0,0,0.75);
+    border-radius: .5rem;
+    font-size: 1.2rem;
+}
+.cards >span{
+    color: rgb(172, 172, 172);
+}
+
+.containers{
+    position: absolute;
+    top: 6rem;
+    left: 20rem;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}

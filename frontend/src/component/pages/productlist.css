@@ -1,0 +1,8 @@
+.tablelist{
+    width: 60%;
+    position: relative;
+    left: 20rem;
+    top: 8rem;
+    height: 35rem;
+    overflow-y: auto;
+}
